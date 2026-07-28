@@ -1,2 +1,2 @@
-# TimeUtilsHelper
-Release downloads for TimeUtils Global Hotkey Helper (wellduns.com)
+# App Releases
+Release downloads for WellDuns.com Freeware
